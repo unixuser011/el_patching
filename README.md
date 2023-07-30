@@ -54,4 +54,4 @@ ansible-playbook -i inventory/hosts playbook.yml --check
 
 License
 
-MIT
+GPL 3.0
